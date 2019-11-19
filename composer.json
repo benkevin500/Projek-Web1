@@ -1,40 +1,43 @@
 {
-	"name": "tecnickcom/tcpdf",
-	"version": "",
-	"homepage": "http://www.tcpdf.org/",
-	"type": "library",
-	"description": "TCPDF is a PHP class for generating PDF documents and barcodes.",
-	"keywords": ["PDF","tcpdf","PDFD32000-2008","qrcode","datamatrix","pdf417","barcodes"],
-	"license": "LGPLv3",
-	"authors": [
-	{
-		"name": "Nicola Asuni",
-		"email": "info@tecnick.com",
-		"homepage": "http://nicolaasuni.tecnick.com"
-	}
-	],
-	"require": {
-		"php": ">=5.3.0"
-	},
-	"autoload": {
-		"classmap": [
-		"fonts",
-		"config",
-		"include",
-		"tcpdf.php",
-		"tcpdf_parser.php",
-		"tcpdf_import.php",
-		"tcpdf_barcodes_1d.php",
-		"tcpdf_barcodes_2d.php",
-		"include/tcpdf_colors.php",
-		"include/tcpdf_filters.php",
-		"include/tcpdf_font_data.php",
-		"include/tcpdf_fonts.php",
-		"include/tcpdf_images.php",
-		"include/tcpdf_static.php",
-		"include/barcodes/datamatrix.php",
-		"include/barcodes/pdf417.php",
-		"include/barcodes/qrcode.php"
-		]
-	}
+    "name": "phpoffice/phpexcel",
+    "description": "PHPExcel - OpenXML - Read, Create and Write Spreadsheet documents in PHP - Spreadsheet engine",
+    "keywords": ["PHP","Excel","OpenXML","xlsx","xls","spreadsheet"],
+    "homepage": "https://github.com/PHPOffice/PHPExcel",
+    "type": "library",
+    "license": "LGPL-2.1",
+    "authors": [
+        {
+            "name": "Maarten Balliauw",
+            "homepage": "http://blog.maartenballiauw.be"
+        },
+        {
+            "name": "Mark Baker",
+            "homepage": "http://markbakeruk.net"
+        },
+        {
+            "name": "Franck Lefevre",
+            "homepage": "http://rootslabs.net"
+        },
+        {
+            "name": "Erik Tilt"
+        }
+    ],
+    "require": {
+        "php": "^5.2|^7.0",
+        "ext-mbstring": "*",
+        "ext-xml": "*",
+        "ext-xmlwriter": "*"
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "2.*"
+    },
+    "recommend": {
+        "ext-zip": "*",
+        "ext-gd": "*"
+    },
+    "autoload": {
+        "psr-0": {
+            "PHPExcel": "Classes/"
+        }
+    }
 }
