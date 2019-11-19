@@ -1,0 +1,342 @@
+*{
+	margin: auto; 
+	padding: 0px;
+}
+.a1{
+	text-align: center;
+	font-family: "Calibri", Calibri, monospace;}
+.a{
+	padding: 5px;
+	text-align:center;
+	font-family: "Calibri", Calibri, monospace;
+	font-size: 1.5vw;
+}
+.abs{
+	padding: 5px;
+	text-align:center;
+	font-family: "Calibri", Calibri, monospace;
+	color:black;
+	font-size: 2.0vw;
+}
+.capt1{
+	font-family: "Calibri", Calibri, monospace;
+	font-size: 3.0vw;
+	padding: 50px;
+	text-align: center;
+}
+.capt2{
+	font-family: "Calibri", Calibri, monospace;
+	font-size: 2.0vw;
+	padding: 5%;
+	text-align: center;
+}
+.capt3{
+	font-family: "Calibri", Calibri, monospace;
+	font-size: 2.0vw;
+	padding: 5%;
+	text-align: center;
+}
+.c1{
+	border-radius: 9px;
+	background-color:#DAEDED; 
+	min-height: 15vh;
+	min-width: 15vw;
+	margin-left: 5vw;
+	margin-right: 3vw;
+	width: 1200px;
+}
+.ch{
+	border-color: lightblue;
+	background-color:#DAEDED;
+	border-radius: 9px;
+	min-height: 5vh;
+	min-width: 5vw;
+}
+.cp{
+	float: right;
+	position: inline-block;
+	width: 30%;
+	margin-left: 1vw;
+	margin-right: 1vw;
+}
+.cp1{
+	background-color: lightblue;
+	text-align:center;
+	font-family: "Calibri", Calibri, monospace;
+}
+.form{
+	text-align:center;
+	margin:2vw; 
+	background-color: #DFC19F;
+	padding: 8px;
+	margin-left: 5vw;
+	margin-right: 5vw;
+	min-height: 5vw;
+	min-width: 5vw;
+}
+.form1{
+	text-align:center;
+	margin:2vw; 
+	background-color: #DFC19F;
+	padding: 5px;
+}
+.frm{
+padding: 35px;
+background-color: #DFC19F;
+height: 573px;
+/*margin-bottom: 1000px;*/
+}
+.frm1{
+padding: 35px;
+background-color: #DFC19F;
+height: 573px;
+/*margin-bottom: 1000px;*/
+}
+.id{
+	margin: 1vw;
+	height: 20px;
+
+}
+.nm{
+	margin: 1vw;
+	height: 20px;
+}
+.nm1{
+	margin: 1vw;
+	height: 20px;
+}
+.nm2{
+	margin: 1vw;
+	height: 20px;
+	margin-left: 75px;
+}
+.em{
+	margin: 1vw;
+	height: 20px;
+}
+.us{
+	margin: 1vw;
+	height: 20px;
+}
+.pw{
+	margin: 1vw;
+	height: 20px;
+}
+.rg{
+	background-color: lightblue;
+	color: black;
+	height: 40px;
+	width: 70px;
+	border-radius: 9px;
+	border-color: lightblue;
+}
+.frm2{
+	margin-left: 600px;
+}
+.feu{
+	background-color: lightgreen;
+	min-height: 48.5vw;
+}
+h2{
+	text-align:center;
+	font-size: 3vw	;
+	font-family: "Calibri", Calibri, monospace;
+	color: black;
+}
+.ivan{
+	background-color: #DCE2DA;
+	text-align: center;
+	border-radius: 9px;
+	min-height: 2vw;
+	min-width: 2vh;
+	margin-left: 70vh;
+	margin-right: 70vh;
+}
+.kanan{
+	float: right;
+	padding: 0.5vw;
+	font-family: "Calibri", Calibri, monospace;
+	font-size: 1.0vw;
+}
+.kanan ul li{
+	list-style: none;
+	display: inline;
+	padding: 0px;
+}
+.kanan ul li a{
+	text-decoration: none;
+	background-color: lightblue;
+	border-radius: 6px;	
+	padding: 5px;
+	color: black;
+}
+.kevin{
+	background-color: #DCE2DA;
+	text-align: center;
+	border-radius: 9px;
+	min-height: 2vw;
+	min-width: 2vh;
+	margin-left: 70vh;
+	margin-right: 70vh;
+
+}
+.kiri{
+	float: left;
+	padding: 0.5vw;
+	font-family: "Calibri", Calibri, monospace;
+	font-size: 1.0vw;
+}
+.kiri ul li{
+	list-style: none;
+	padding: 0px;
+}
+.kiri ul li a{
+	text-decoration: none;
+	background-color: lightblue;
+	border-radius: 6px;
+	color: black;
+	padding: 5px;
+}
+.m1{
+	text-align: center;
+	font-family: "Calibri", Calibri, monospace;
+}
+.m{
+	padding: 5px;
+	text-align:center;
+	font-family: "Calibri", Calibri, monospace;
+	font-size: 1.5vw;
+}
+.p{
+	font-family: "Calibri", Calibri, monospace;
+	font-size: 2.0vw;
+	text-align: center;
+}
+.p2{
+	font-family: "Calibri", Calibri, monospace;
+	font-size: 1.5vw;
+	text-align: center;
+}
+.po1{
+	width: 12vw;
+	height: 15vh;
+	border-radius: 20px;
+}
+.rahman{
+	background-color: #DCE2DA;
+	text-align: center;
+	border-radius: 9px;
+	min-height: 2vw;
+	min-width: 2vh;
+	margin-left: 70vh;
+	margin-right: 70vh;
+
+}
+.w{
+	padding: 5px;
+	text-align:center;
+	font-family: "Calibri", Calibri, monospace;
+	font-size: 1.5vw;
+}
+.w1{ 
+	text-align: center;
+	font-family: "Calibri", Calibri, monospace;
+}
+
+#aboutsystem{
+	background-color: #DAEDED;
+	/*background-image: url('http://www.galamedianews.com/media/original/190406152427-nelay.png');
+	*/background-size: 50%;
+	min-height: 23vw;
+}
+#aboutus{
+	background-color: #DFC19F;
+	min-height: 30vw;
+
+}
+#aneh{
+	background-color: lightgreen;
+	min-height: 42.51vw;
+	padding: 3vw;
+	text-align: center;
+	font-family: "Calibri", Calibri, monospace;
+}
+.tampil{
+	text-decoration: none;
+	background-color: lightblue;
+	padding: 3px;
+	border-radius: 9px;
+}
+.frmmsk{
+	text-decoration: none;
+	background-color: lightblue;
+	padding: 3px;
+	border-radius: 9px;
+	text-color: black;
+}
+.indx{
+	text-decoration: none;
+	background-color: lightblue;
+	padding: 3px;
+	border-radius: 9px;
+	border-color: black; 
+}
+#contact{
+	background-color: #DECCB3;
+	min-height: 30vw;
+}
+#menu2{
+	padding: 2px;
+	background-color: rgb(184, 185, 255);
+	min-height: 3vh;
+	position: fixed;
+	width: 100vw;
+}
+#menu{
+	padding: 2px;
+	background-color: #DDD7C6;
+	min-height: 3vh;
+	position: fixed;
+	width: 98.5vw;
+}
+
+.rg1{
+	text-decoration: none! important;
+	border-color: lightblue;
+	background-color:lightblue;
+	border-radius: 9px;
+	min-height: 5vh;
+	min-width: 5vw;
+	padding: 6px;
+	border-radius: 9px;
+}
+.lg1{
+	text-decoration: none! important;
+	border-color: lightblue;
+	background-color:lightblue;
+	border-radius: 9px;
+	min-height: 5vh;
+	min-width: 5vw;
+	padding: 6px;
+	border-radius: 9px;
+}
+.ed1{
+	text-decoration: none! important;
+	border-color: lightblue;
+	background-color:lightblue;
+	border-radius: 9px;
+	min-height: 5vh;
+	min-width: 5vw;
+	padding: 6px;
+	border-radius: 9px;
+}
+.dl1{
+	text-decoration: none! important;
+	border-color: lightblue;
+	background-color:lightblue;
+	border-radius: 9px;
+	min-height: 5vh;
+	min-width: 5vw;
+	padding: 6px;
+	border-radius: 9px;
+}
